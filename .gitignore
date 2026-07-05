@@ -1,0 +1,4 @@
+.gh-config/
+github-login.ps1
+generate_social.py
+assets/watches/*.png
